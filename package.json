@@ -1,13 +1,13 @@
 {
-  "name": "medium-highlighter",
+  "name": "ixbrl-highlighter",
   "version": "1.0.0",
   "description": "",
-  "main": "medium-highlighter.js",
+  "main": "ixbrltagmarker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Marius Bongarts",
+  "author": "Raluca Minea",
   "license": "ISC",
   "dependencies": {
     "@webcomponents/custom-elements": "^1.4.3"
