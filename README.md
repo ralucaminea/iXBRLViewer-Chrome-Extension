@@ -25,5 +25,6 @@ npm i
 
 1. The extension works best for plain *.htm / *.html inline instances. It was created specifically to keep things clean compared to other XBRL viewers that are injecting their custom markup in DOM.
 2. When loaded via XBRL renderers the extension should not add extra markup. Tested only with the Edgar Renderer and Workiva's renderer.
-3. Depending on how inline instances are created, e.g. inline styles vs CSS classes, you might find HTML rendering issues. Feel free to get in touch and raise the problems you encountered.
-4. No guarantees offered, this repo was a few minutes effort :)
+3. Depending on how inline instances are created, e.g. inline styles vs CSS classes, you might find HTML rendering issues.
+4. Please be patient and report any unexpected behavior. It the meanwhile, activating / deactivating a Chrome extension is a no brainer. 
+5. No guarantees offered, this repo was a few minutes effort :)
